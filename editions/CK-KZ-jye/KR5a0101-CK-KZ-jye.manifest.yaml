@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR5a0101/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5a0101/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上昇玄說消災護命妙經註
+  date: '2015-08-28 23:37:26.409100'
+  source:
+    repository: kanripo
+    path: KR5a0101
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0101_000-CK-KZ-jye.yaml, hash: 'sha256:6279a44f695ce2336b68b2f832986711c939899a4d1fddb18026f1d4b9a8a55e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0101_000-CK-KZ-jye.markers.yaml, hash: 'sha256:d5d4506546f9098fe5abefe0ce7cb77c29faf4f9f79c0f67e16551e7bbef8252'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0101_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 3430
+  label: 太上昇玄說消災護命妙經註¶　　　　@by脩江混然子註
+  type: section
+  level: 1
+hash: sha256:58cad93321b1fd756bf3f95f71f89962ee5426452fd684022a5b5c5bb1f6a04a
